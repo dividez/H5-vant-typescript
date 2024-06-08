@@ -1,3 +1,3 @@
 import pkg from "../package.json";
 
-export const pageDefaultTitle = "保星讯";
+export const pageDefaultTitle = "模板TITLE";
