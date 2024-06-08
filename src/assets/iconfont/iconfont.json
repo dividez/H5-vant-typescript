@@ -1,0 +1,30 @@
+{
+  "id": "4507968",
+  "name": "vue3-h5",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16372290",
+      "name": "认证",
+      "font_class": "renzheng1",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "34704552",
+      "name": "认证2",
+      "font_class": "renzheng21",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "34601215",
+      "name": "认证",
+      "font_class": "renzheng",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}
